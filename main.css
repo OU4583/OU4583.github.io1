@@ -2302,6 +2302,7 @@ input, select, textarea {
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		color:black;
 	}
 
 		#nav > ul {
@@ -2312,6 +2313,7 @@ input, select, textarea {
 			height: 21px;
 			border-left: solid 1px rgba(192, 192, 192, 0.35);
 			border-right: solid 1px rgba(192, 192, 192, 0.35);
+			color:black;
 		}
 
 			#nav > ul:before, #nav > ul:after {
@@ -2324,6 +2326,7 @@ input, select, textarea {
 				height: 5px;
 				border-top: solid 1px rgba(192, 192, 192, 0.35);
 				border-bottom: solid 1px rgba(192, 192, 192, 0.35);
+				
 			}
 
 			#nav > ul:before {
