@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+img{
+	width:10px;
+	height:10px;
+}
+
 
 
 ol, ul {
