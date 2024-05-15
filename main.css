@@ -3138,6 +3138,38 @@ input, select, textarea {
 				color:black;
 			}
 
+
+
+
+
+
+		/* Main */
+
+
+
+		main{
+			display:grid;
+		}
+
+		.workmain{
+			grid-template-columns: 50% 50%;
+		}
+
+		.work{
+			position:relative;
+			display:flex;
+			
+		}
+
+		.working {
+			display: block;
+			width: 100%;
+			height: auto;
+			border-radius: 40px;
+		}
+		
+
+
 		/* Carousel */
 
 			.carousel {
